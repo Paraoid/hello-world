@@ -1,4 +1,4 @@
 # hello-world
-hi huamns!
+hi humans!
 lzh here,I like android and java
 practice
